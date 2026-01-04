@@ -1,0 +1,19 @@
+Base Third Project
+
+This repository demonstrates the deployment of a smart contract on the Base Mainnet.
+
+Overview
+	•	Network: Base Mainnet
+	•	Chain ID: 8453 (0x2105)
+	•	Language: Solidity
+	•	Deployment tool: Remix IDE
+	•	Wallet: Rabby Wallet
+
+Deployed Smart Contract
+
+The smart contract deployed on this account is:
+	•	Contract address: 0x1fC204f28ac37F3a39Dbb33B6E4DB2baA7265694
+
+Developer Notes
+
+This repository is created to demonstrate activity within the Base ecosystem.
